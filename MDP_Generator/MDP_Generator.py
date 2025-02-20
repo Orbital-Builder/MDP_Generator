@@ -1,5 +1,15 @@
 import random
 
+"""
+
+
+Code by Orbital-Builder.
+Version 1.0.
+------------------------
+
+
+"""
+
 def generer_mot_de_passe(longueur):
     caracteres = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
     mot_de_passe = "".join(random.sample(caracteres, longueur))
