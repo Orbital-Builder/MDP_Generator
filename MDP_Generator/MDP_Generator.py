@@ -4,6 +4,8 @@ import random
 
 
 Code by Orbital-Builder.
+Aide : Github Copilot
+Aide : UDEMY - Jean-Philippe Parein  
 Version 1.0.
 ------------------------
 
